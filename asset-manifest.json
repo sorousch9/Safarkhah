@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c81dd843.css",
-    "main.js": "/static/js/main.502a9d69.js",
-    "static/media/1.png": "/static/media/1.cf6d6186405541695671.png",
-    "static/media/2.png": "/static/media/2.9d9bdae9a1fe10e9f9b1.png",
-    "static/media/3.png": "/static/media/3.0c3dba465e86389bcd73.png",
-    "static/media/person-vec.png": "/static/media/person-vec.18cbd53c8e8e8908e972.png",
-    "static/media/cv.pdf": "/static/media/cv.2bbdc7490dad194dd981.pdf",
-    "static/media/LOGOw.png": "/static/media/LOGOw.d142cb9b469a43381948.png",
-    "static/media/map-light.png": "/static/media/map-light.279fba7babaf7b19a260.png",
-    "index.html": "/index.html",
-    "main.c81dd843.css.map": "/static/css/main.c81dd843.css.map",
-    "main.502a9d69.js.map": "/static/js/main.502a9d69.js.map"
+    "main.css": "/safarkhah/static/css/main.c81dd843.css",
+    "main.js": "/safarkhah/static/js/main.8dd7eb3d.js",
+    "static/media/1.png": "/safarkhah/static/media/1.cf6d6186405541695671.png",
+    "static/media/2.png": "/safarkhah/static/media/2.9d9bdae9a1fe10e9f9b1.png",
+    "static/media/3.png": "/safarkhah/static/media/3.0c3dba465e86389bcd73.png",
+    "static/media/person-vec.png": "/safarkhah/static/media/person-vec.18cbd53c8e8e8908e972.png",
+    "static/media/cv.pdf": "/safarkhah/static/media/cv.2bbdc7490dad194dd981.pdf",
+    "static/media/LOGOw.png": "/safarkhah/static/media/LOGOw.d142cb9b469a43381948.png",
+    "static/media/map-light.png": "/safarkhah/static/media/map-light.279fba7babaf7b19a260.png",
+    "index.html": "/safarkhah/index.html",
+    "main.c81dd843.css.map": "/safarkhah/static/css/main.c81dd843.css.map",
+    "main.8dd7eb3d.js.map": "/safarkhah/static/js/main.8dd7eb3d.js.map"
   },
   "entrypoints": [
     "static/css/main.c81dd843.css",
-    "static/js/main.502a9d69.js"
+    "static/js/main.8dd7eb3d.js"
   ]
 }
