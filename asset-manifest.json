@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/safarkhah/static/css/main.5ecf4285.css",
-    "main.js": "/safarkhah/static/js/main.b7c94798.js",
+    "main.css": "/safarkhah/static/css/main.1eb397ef.css",
+    "main.js": "/safarkhah/static/js/main.2cc3d858.js",
     "static/media/1.png": "/safarkhah/static/media/1.cf6d6186405541695671.png",
     "static/media/2.png": "/safarkhah/static/media/2.9d9bdae9a1fe10e9f9b1.png",
     "static/media/3.png": "/safarkhah/static/media/3.0c3dba465e86389bcd73.png",
@@ -10,11 +10,11 @@
     "static/media/LOGOw.png": "/safarkhah/static/media/LOGOw.d142cb9b469a43381948.png",
     "static/media/map-light.png": "/safarkhah/static/media/map-light.279fba7babaf7b19a260.png",
     "index.html": "/safarkhah/index.html",
-    "main.5ecf4285.css.map": "/safarkhah/static/css/main.5ecf4285.css.map",
-    "main.b7c94798.js.map": "/safarkhah/static/js/main.b7c94798.js.map"
+    "main.1eb397ef.css.map": "/safarkhah/static/css/main.1eb397ef.css.map",
+    "main.2cc3d858.js.map": "/safarkhah/static/js/main.2cc3d858.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ecf4285.css",
-    "static/js/main.b7c94798.js"
+    "static/css/main.1eb397ef.css",
+    "static/js/main.2cc3d858.js"
   ]
 }
