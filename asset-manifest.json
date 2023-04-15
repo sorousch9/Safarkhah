@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/safarkhah/static/css/main.bd8a295c.css",
-    "main.js": "/safarkhah/static/js/main.c36f8be6.js",
+    "main.css": "/safarkhah/static/css/main.69f541a0.css",
+    "main.js": "/safarkhah/static/js/main.a38ecd47.js",
     "static/media/person-vec.png": "/safarkhah/static/media/person-vec.18cbd53c8e8e8908e972.png",
-    "static/media/cv.pdf": "/safarkhah/static/media/cv.2bbdc7490dad194dd981.pdf",
+    "static/media/susuplay1.webp": "/safarkhah/static/media/susuplay1.0c5cbdbf07fd131d4efb.webp",
+    "static/media/susuplay2.webp": "/safarkhah/static/media/susuplay2.a0774fa5969e5ac32bb9.webp",
     "static/media/web3.webp": "/safarkhah/static/media/web3.db638048a3c6de42c25e.webp",
     "static/media/susu1.webp": "/safarkhah/static/media/susu1.db675eef4d7ec1f9aa64.webp",
     "static/media/web1.webp": "/safarkhah/static/media/web1.e213201ca1744c7bb094.webp",
     "static/media/web2.webp": "/safarkhah/static/media/web2.67aa2d527fa4c130bb26.webp",
     "static/media/susu3.webp": "/safarkhah/static/media/susu3.512b12bfb9b562032588.webp",
     "static/media/susu2.webp": "/safarkhah/static/media/susu2.4d80f2a7a188fa7452ce.webp",
+    "static/media/susuplay3.webp": "/safarkhah/static/media/susuplay3.5a1dea6076a2f1de5e30.webp",
     "static/media/shibeauty2.webp": "/safarkhah/static/media/shibeauty2.5a3fb8aa6b28fceb3121.webp",
     "static/media/shibeauty1.webp": "/safarkhah/static/media/shibeauty1.fe1b63bc2a1ec70e17db.webp",
+    "static/media/susuplay4.webp": "/safarkhah/static/media/susuplay4.7772c014a1d72e019b0f.webp",
     "static/media/LOGOw.png": "/safarkhah/static/media/LOGOw.d142cb9b469a43381948.png",
     "static/media/shibeauty3.webp": "/safarkhah/static/media/shibeauty3.485326f707848641c39d.webp",
     "static/media/map-light.png": "/safarkhah/static/media/map-light.279fba7babaf7b19a260.png",
     "index.html": "/safarkhah/index.html",
-    "main.bd8a295c.css.map": "/safarkhah/static/css/main.bd8a295c.css.map",
-    "main.c36f8be6.js.map": "/safarkhah/static/js/main.c36f8be6.js.map"
+    "main.69f541a0.css.map": "/safarkhah/static/css/main.69f541a0.css.map",
+    "main.a38ecd47.js.map": "/safarkhah/static/js/main.a38ecd47.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd8a295c.css",
-    "static/js/main.c36f8be6.js"
+    "static/css/main.69f541a0.css",
+    "static/js/main.a38ecd47.js"
   ]
 }
